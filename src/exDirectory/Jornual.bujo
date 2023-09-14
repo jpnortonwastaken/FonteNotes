@@ -1,0 +1,35 @@
+{
+  "name" : "Jorunal",
+  "theme" : "LIGHT",
+  "events" : [ {
+    "name" : "Lab",
+    "uuid" : "00d140ec-b751-4968-ab64-0dc34faaf5c3",
+    "description" : "OOD",
+    "startTime" : "8:00",
+    "duration" : "120",
+    "day" : "TUESDAY",
+    "details" : [ "Lab", "TUESDAY", "8:00", "120" ],
+    "dayOfWeek" : "TUESDAY"
+  }, {
+    "name" : "Lecture",
+    "uuid" : "e259c823-9af9-4cc0-b660-ba5ec7b8a754",
+    "description" : "",
+    "startTime" : null,
+    "duration" : null,
+    "day" : "WEDNESDAY",
+    "details" : [ "Lecture", "WEDNESDAY", "null", "null" ],
+    "dayOfWeek" : "WEDNESDAY"
+  }, {
+    "name" : "Freeze",
+    "uuid" : "292d14f2-ab8e-486f-9561-5845f9991c43",
+    "description" : "",
+    "startTime" : "12",
+    "duration" : "12",
+    "day" : "MONDAY",
+    "details" : [ "Freeze", "MONDAY", "12", "12" ],
+    "dayOfWeek" : "MONDAY"
+  } ],
+  "tasks" : [ ],
+  "maxEvents" : 10,
+  "maxTasks" : 10
+}

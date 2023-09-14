@@ -1,0 +1,24 @@
+{
+  "name" : "Jack's Week",
+  "theme" : "LIGHT",
+  "events" : [ ],
+  "tasks" : [ {
+    "name" : "Task 1",
+    "uuid" : "5d933b0e-5739-42a6-abfd-fd60507ad776",
+    "description" : "task",
+    "day" : "MONDAY",
+    "completed" : true,
+    "details" : [ "Task 1", "MONDAY", "5d933b0e-5739-42a6-abfd-fd60507ad776", "true" ],
+    "dayOfWeek" : "MONDAY"
+  }, {
+    "name" : "Task 2",
+    "uuid" : "d08322a8-762c-4382-af80-1ddb1cb80b91",
+    "description" : "task",
+    "day" : "TUESDAY",
+    "completed" : false,
+    "details" : [ "Task 2", "TUESDAY", "d08322a8-762c-4382-af80-1ddb1cb80b91", "false" ],
+    "dayOfWeek" : "TUESDAY"
+  } ],
+  "maxEvents" : 17,
+  "maxTasks" : 17
+}

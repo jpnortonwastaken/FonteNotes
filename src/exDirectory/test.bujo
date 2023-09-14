@@ -1,0 +1,17 @@
+{
+  "name" : "fdas",
+  "theme" : "DARK",
+  "events" : [ {
+    "name" : "jack",
+    "uuid" : "02d70c43-5221-4866-9a09-2073a99b08f0",
+    "description" : "",
+    "startTime" : "12",
+    "duration" : "15",
+    "day" : "MONDAY",
+    "details" : [ "jack", "MONDAY", "12", "15" ],
+    "dayOfWeek" : "MONDAY"
+  } ],
+  "tasks" : [ ],
+  "maxEvents" : 12,
+  "maxTasks" : 12
+}
