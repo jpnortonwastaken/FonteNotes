@@ -2,7 +2,7 @@
 
 Welcome to FonteNotes! - the ultimate tool to streamline your planning process and increase productivity. Discover an immersive, feature-rich planning experience with an intuitive, easy-to-use interface.
 
-![Screenshot 2023-06-21 at 1.04.40 PM.png](Screenshot%202023-06-21%20at%201.04.40%20PM.png)
+![FonteNotes](https://github.com/jpnortonwastaken/bullet-journal-app/assets/132861519/8fbaff31-4996-4490-8cf0-727e2d5c1cfa)
 
 ## Week View
 
