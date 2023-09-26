@@ -48,7 +48,7 @@ Make your planning more resourceful with our Links feature. It parses any valid 
 
 Stay flexible with your plans with our Mind Changes feature. Edit any aspect of any existing Event or Task from the Week view, keeping your plans adaptable and up-to-date.
 
-With FonteNotes, planning your week has never been this exciting and personalized. Make the most out of your week with our ultimate planning tool!!![[Screenshot 2023-06-21 at 1.04.40 PM.png]]
+With FonteNotes, planning your week has never been this exciting and personalized. Make the most out of your week with our ultimate planning tool!!!
 
 1. Single Responsibility Principle  
 	Each class has a well-defined responsibility. The `IWeek` interface and `Week` class, for instance, are responsible for managing weekly activities, while the `Task` class focuses on handling task-specific data and operations. The `JournalController` is responsible for orchestrating the application logic, and the `JournalGuiView` is tasked with visual representation. None of these classes does more than what they're designed for, thereby upholding the SRP.
