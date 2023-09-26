@@ -1,4 +1,4 @@
-##FonteNotes - Desktop App
+## FonteNotes - Desktop App
 
 Welcome to FonteNotes! - the ultimate tool to streamline your planning process and increase productivity. Discover an immersive, feature-rich planning experience with an intuitive, easy-to-use interface.
 
